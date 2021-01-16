@@ -44,8 +44,7 @@ h1 {
 /* headerはここ */
 
 header {
-  background-image: url(img/main kai2.jpg)
-  height: 450px;
+  background-image: url("https://github.com/simasima217/simasima217website/blob/main/img/main%20kai2.jpg?raw=true  height: 450px;");
   padding-top: 30px;
 }
 
